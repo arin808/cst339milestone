@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "619acdf833e0631934058c1d"
+  },
+  "userId": "1",
+  "username": "arin808",
+  "password": "$2a$10$WEPIKoZb.yOXEhKMvSVuheCnkInvd/ZAh9b8Y9n4KHqHZoKg4EgHS",
+  "roles": [
+    "ROLE_ADMIN"
+  ],
+  "email": "snipahz808@gmail.com",
+  "firstName": "Arin",
+  "lastName": "Aihara",
+  "phoneNumber": "8082501938"
+},{
+  "_id": {
+    "$oid": "619ace0e1167e4bce17dacef"
+  },
+  "userId": "2",
+  "username": "kingjosh",
+  "password": "$2a$10$nAfoQKgV0LHihOeZxbEcb.QrqIWX2pggx9ZjyIk64I.t9w5ex.VDe",
+  "roles": [
+    "ROLE_ADMIN"
+  ],
+  "email": "josh@gmail.com",
+  "firstName": "Josh",
+  "lastName": "Williams",
+  "phoneNumber": "12345678908082501938"
+},{
+  "_id": {
+    "$oid": "61a42a508f044e3fa02c801e"
+  },
+  "username": "test1",
+  "password": "$2a$10$x2mQDOxF4vBxPxu6G1Ym/utsw3DCgErMhOXdk2SDs/0QM8XIiY8Im",
+  "roles": [
+    "ROLE_USER"
+  ],
+  "userId": "3",
+  "email": "test@email.com",
+  "firstName": "test",
+  "lastName": "tester",
+  "phoneNumber": "1234567890"
+}]

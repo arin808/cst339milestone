@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "619acef96f54da30f2c61f9b"
+  },
+  "vacationId": "1",
+  "vacationName": "testing",
+  "cost": "500.00",
+  "description": "Diving trip",
+  "location": "Hawaii",
+  "photo": "photo.jpg",
+  "startDate": "2021-11-10",
+  "tripLength": 3
+},{
+  "_id": {
+    "$oid": "61a4137c77003f28993adaf9"
+  },
+  "vacationName": "Crusing on the Posideon",
+  "startDate": "2021-11-16",
+  "tripLength": 10,
+  "photo": "Nice_Cruise.jpeg",
+  "location": "California",
+  "description": "Take a nice trip on the our famous ship the Posideon and cruise around the pacific ocean.",
+  "cost": 100.5,
+  "_class": "com.gcu.model.ProductEntity"
+}]
